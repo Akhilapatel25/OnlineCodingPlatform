@@ -1,0 +1,6 @@
+@OnlineCodingPlatformAPI.Server_HostAddress = http://localhost:5042
+
+GET {{OnlineCodingPlatformAPI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
